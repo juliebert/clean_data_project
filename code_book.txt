@@ -12,7 +12,7 @@ Column names are indicated in "quotation marks"
 	6 LAYING
 
 The following are quantities extracted from the gyroscope and accelerometer data and averaged for each subject and each activity
-'-XYZ' is used to denote 3-axial signals in the X, Y and Z directions. mean(): Mean value std(): Standard deviation
+'-XYZ' is used to denote 3-axial signals in the X, Y and Z directions. mean(): Mean value std(): Standard deviation meanFreq(): Weighted average of the frequency components to obtain a mean frequency
 
 "tBodyAcc-mean()-X"              
 "tBodyAcc-mean()-Y"               
